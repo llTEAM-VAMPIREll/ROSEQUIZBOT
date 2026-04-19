@@ -1,0 +1,14 @@
+{
+  "name": "Darkquiz Bot",
+  "description": "Telegram Quiz Bot",
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ],
+  "formation": {
+    "worker": {
+      "quantity": 1
+    }
+  }
+}
