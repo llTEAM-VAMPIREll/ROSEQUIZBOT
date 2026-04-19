@@ -1,0 +1,4 @@
+TOKEN = "YOUR_BOT_TOKEN"
+OWNER_ID = 8598422536
+SUPPORT_CHANNEL = "https://t.me/DARKBOTSUPDATE"
+WELCOME_IMAGE = "https://i.ibb.co/bgQsqr3v/x.jpg"
